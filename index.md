@@ -1,6 +1,6 @@
 ---
-theme: minima
-title: Test Title
+theme: minimal
+title: Title of test-page
 ---
 
 # Test web page
